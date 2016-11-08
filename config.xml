@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.edulinkelt.moodlemobile"
         versionCode = "2016"
         version   = "1.0">
     <name>Edulinkelt</name>
 
     <description>
-        Moodle Mobile app for Edulinkelt
+        Official Edulinkelt Mobile App.
     </description>
 
     <author href="http://www.edulinkelt.com" email="edulinkelt@gmail.com">
