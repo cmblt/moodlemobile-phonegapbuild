@@ -37,7 +37,7 @@
     <preference name="phonegap-version" value="cli-6.3.0" />
     <preference name="orientation"      value="landscape" />
     <preference name="target-device"    value="universal" />
-    <preference name="fullscreen"       value="false" />
+    <preference name="fullscreen"       value="true" />
     <preference name="stay-in-webview"  value="false" />
     <preference name="webviewbounce"    value="false" />
     <preference name="prerendered-icon" value="true" />
