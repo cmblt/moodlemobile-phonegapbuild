@@ -2,7 +2,7 @@
     "activitynotyetviewableinapp": "We are working on supporting the {{$a}} activity.",
     "activitynotyetviewableremoteaddon": "Your organisation installed a plugin that is not yet supported.",
     "activitynotyetviewablesiteupgradeneeded": "Your organisation's Moodle installation needs to be updated.",
-    "allsections": "All sections",
+    "allsections": "View All Sections",
     "askadmintosupport": "Contact the site administrator and tell them you want to use this activity with the Moodle Mobile app.",
     "confirmdeletemodulefiles": "Are you sure you want to delete this module files?",
     "confirmdownload": "You are about to download {{size}}. Are you sure you want to continue?",
