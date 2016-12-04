@@ -43635,11 +43635,11 @@ angular.module('mm.core')
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "tr",
-    "languages": {en": "English", "tr" : "Türkçe"},
+    "languages": {"en": "English", "tr" : "Türkçe"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "siteurl": "http://www.edulinkelt.com/lms",
+    "siteurl": "http:www.edulinkelt.com/lms",
     "customurlscheme": "moodlemobile"
 }
 );
